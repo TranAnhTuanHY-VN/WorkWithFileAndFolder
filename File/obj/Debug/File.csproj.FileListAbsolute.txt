@@ -1,0 +1,8 @@
+D:\NTQ_Solution\dev23\File\File\bin\Debug\File.exe.config
+D:\NTQ_Solution\dev23\File\File\bin\Debug\File.exe
+D:\NTQ_Solution\dev23\File\File\bin\Debug\File.pdb
+D:\NTQ_Solution\dev23\File\File\obj\Debug\File.csproj.AssemblyReference.cache
+D:\NTQ_Solution\dev23\File\File\obj\Debug\File.csproj.SuggestedBindingRedirects.cache
+D:\NTQ_Solution\dev23\File\File\obj\Debug\File.csproj.CoreCompileInputs.cache
+D:\NTQ_Solution\dev23\File\File\obj\Debug\File.exe
+D:\NTQ_Solution\dev23\File\File\obj\Debug\File.pdb
